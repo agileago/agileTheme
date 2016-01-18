@@ -1,16 +1,13 @@
 <scheme name="agileTheme" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Inconsolata-g" />
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Hiragino Sans GB" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="Iosevka" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="444444" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -422,7 +419,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="76d4ff" />
+        <option name="FOREGROUND" value="40aee4" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -443,7 +440,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="bd7aea" />
       </value>
     </option>
     <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -469,7 +466,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="80cbc4" />
+        <option name="FOREGROUND" value="bec936" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -499,7 +496,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="c3e887" />
+        <option name="FOREGROUND" value="7cbf55" />
       </value>
     </option>
     <option name="DEFAULT_TAG" baseAttributes="TEXT" />
@@ -636,11 +633,6 @@
         <option name="FOREGROUND" value="7cbf55" />
       </value>
     </option>
-    <option name="HTML_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="505c63" />
-      </value>
-    </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="92bdec" />
@@ -762,11 +754,7 @@
         <option name="FOREGROUND" value="1a1f29" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="76d4ff" />
-      </value>
-    </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="c2c8d7" />
@@ -774,7 +762,7 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="6dc2b8" />
+        <option name="FOREGROUND" value="40aee4" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
