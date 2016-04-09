@@ -5,13 +5,6 @@ because i am a virgo programmer. I take a lot time on the color and fonts. now i
 
 ### Screen shot
 
-#### js
-![](images/js.png)
-#### css
-![](images/css.png)
-#### html
-![](images/html.png)
-#### vue
 ![](images/vue.png)
 
 ### How to use
