@@ -3,7 +3,11 @@ a very beautiful theme for webstorm
 
 because i am a virgo programmer. I take a lot time on the color and fonts. now i find my best theme.
 
-###  [Fantasque-sans](https://github.com/belluzj/fantasque-sans)  [Hack](https://github.com/chrissimpkins/Hack)
+###  Two font suggest
+
+[Fantasque-sans](https://github.com/belluzj/fantasque-sans) 
+
+[Hack](https://github.com/chrissimpkins/Hack)
 
 ### Screen shot
 
