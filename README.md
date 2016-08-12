@@ -1,7 +1,7 @@
 # agileTheme
 a very beautiful theme for webstorm
 
-because i am a virgo programmer. I take a lot time on the color and fonts. now i find my best theme.
+because i am a programmer. I take a lot time on the color and fonts. now i find my best theme.
 
 ###  Two font suggest
 
